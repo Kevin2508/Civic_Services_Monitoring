@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #003087;
+    color: white;
+    padding: 10px 20px;
+    width: 100%;
+  }
+  
+  .logo-title {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-title h1 {
+    font-size: 1.5rem;
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .user-info span {
+    font-size: 1rem;
+  }
